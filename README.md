@@ -10,7 +10,7 @@ This is reverse engineered and patched AutomatedQA.script.dll and AutomatedQA.Te
 
 # Notes
 
-It tested to with Testcomplete 9. I am not sure but it is possible that for greater versions of Testcomplete you should change in Connect.cs file following string "TestComplete.TestCompleteApplication.9" with appropriate version number.
+It was tested to work with Testcomplete 9. I am not sure but it is possible that for greater versions of Testcomplete you should update in file Connect.cs following string "TestComplete.TestCompleteApplication.9" with appropriate version number.
 
 
 
